@@ -2,7 +2,8 @@
 
 app/generated/prisma
 .env
-
+app/generated
+generated
 # dependencies
 /node_modules
 /.pnp
